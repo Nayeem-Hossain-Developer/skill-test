@@ -17,4 +17,8 @@
 12. Now run "php artisan "queue:work" command.
 13. Then open your browser and hit the url "localhost:8000"  for local server.
 14. Then you can see a page like this.
+![Screenshot (635)](https://user-images.githubusercontent.com/82632543/158807516-3bb6bb09-06bc-4bd0-bf06-9d4ce9907d95.png)
+15.Now you give input and click submit button.
+16.If information is validate then you will give a email like this.
+![Screenshot (636)](https://user-images.githubusercontent.com/82632543/158807826-381cfad3-5622-4416-ac33-2aca0cd0ad80.png)
 
